@@ -1,0 +1,12 @@
+﻿  Datagen.cpp
+C:\Users\muket\source\repos\nunet\Datagen.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\muket\source\repos\nunet\Datagen.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\muket\source\repos\nunet\Datagen.cpp(60,38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\muket\source\repos\nunet\Source.cpp(42,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  matrix.cpp
+C:\Users\muket\source\repos\nunet\matrix.cpp(210,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\muket\source\repos\nunet\matrix.cpp(246,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  test.cpp
+  Generating Code...
+  nunet.vcxproj -> C:\Users\muket\source\repos\nunet\Debug\nunet.exe

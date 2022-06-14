@@ -1,0 +1,2 @@
+C:\Users\muket\source\repos\nunet\Debug\nunet.exe
+C:\Users\muket\source\repos\nunet\Debug\nunet.pdb
